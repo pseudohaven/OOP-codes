@@ -1,3 +1,11 @@
+// A program to determine fine for overdue library books
+/*
+    AUTHOR :ERICK
+    REG NO :BSE-05-0162/2024
+    GROUP  :BSE GROUP 3
+    SCHOOL :ZETECH UNIVERSITY
+*/
+
 #include <iostream>
 using namespace std;
 
