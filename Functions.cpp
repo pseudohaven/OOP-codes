@@ -1,4 +1,4 @@
-// A program using  functions
+// A program using functions to determine simple interest
 /* 
     Author :Erick
     Reg no :BSE-05-0162/2024
