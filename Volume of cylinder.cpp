@@ -1,3 +1,11 @@
+//A program to detemine the volume of a cylinder
+/*
+    Author : Erick
+    Reg no : BSE-05-0162/2024
+    Group  : BSE Group 3
+    School : Zetech University
+*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;
